@@ -1,0 +1,24 @@
+{
+  "name": "poo_with_typescript__platzicourse",
+  "version": "0.0.1",
+  "description": "Curso de TypeScript: Programación Orientada a Objetos y Asincronismo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GerardoDev25/POO_with_typescript__platziCourse.git"
+  },
+  "keywords": [],
+  "author": "Gerardo Miranda <gerardodev25@gmail.com> (https://github.com/GerardoDev25)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GerardoDev25/POO_with_typescript__platziCourse/issues"
+  },
+  "homepage": "https://github.com/GerardoDev25/POO_with_typescript__platziCourse#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
