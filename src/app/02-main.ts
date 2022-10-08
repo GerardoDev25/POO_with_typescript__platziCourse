@@ -10,7 +10,7 @@ productService.create({
   title: 'title',
 });
 
-const products = productService.getall();
+const products = productService.getAll();
 const productId = products[0].id;
 
 productService.update(productId, { title: 'title change' });
