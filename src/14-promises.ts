@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-(async (e) => {
+(async () => {
   function dayay(time: number) {
     const promise = new Promise<boolean>((resolve) => {
       setTimeout(() => {
