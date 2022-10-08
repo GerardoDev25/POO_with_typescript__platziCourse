@@ -6,6 +6,11 @@ export class ProductMemoryService {
   private products: Product[] = [];
 
   constructor() {}
+
+  getall(): Product[] {
+    return this.products;
+  }
+
   create(data: CreateProductDto): Product {
     const newProduct = {
       ...data,
